@@ -1,6 +1,6 @@
 Summary:	Wrapper for duplicity
 Name:		duply
-Version:	2.5.2
+Version:	2.5.3
 Release:	1
 License:	GPLv2
 URL:		https://duply.net/
