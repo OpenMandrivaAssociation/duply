@@ -1,6 +1,6 @@
 Summary:	Wrapper for duplicity
 Name:		duply
-Version:	2.5.3
+Version:	2.5.6
 Release:	1
 License:	GPLv2
 URL:		https://duply.net/
@@ -34,7 +34,7 @@ name changed from ftplicity to duply.
 #-----------------------------------------------------------------------
 
 %prep
-%autosetup -p1 -n %{name}_%{version}
+%autosetup -p1 -n duply_2.5.6
 
 # fix shebang
 sed -i "1c#!/bin/bash" %{name}
